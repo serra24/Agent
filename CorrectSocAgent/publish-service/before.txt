@@ -1,0 +1,30 @@
+[
+    {
+        "Title":  "2024-08 Update for Windows 10 Version 22H2 for x64-based Systems (KB5042320)",
+        "Categories":  {
+                           "value":  [
+                                         "Updates",
+                                         "Windows 10, version 1903 and later"
+                                     ],
+                           "Count":  2
+                       }
+    },
+    {
+        "Title":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.417.301.0) - Current Channel (Broad)",
+        "Categories":  {
+                           "value":  [
+                                         "Definition Updates",
+                                         "Microsoft Defender Antivirus"
+                                     ],
+                           "Count":  2
+                       }
+    },
+    {
+        "Title":  "Realtek - Net - 8/28/2018 12:00:00 AM - 10.31.828.2018",
+        "Categories":  "Drivers"
+    },
+    {
+        "Title":  "Intel Corporation - Display - 30.0.101.1338",
+        "Categories":  "Drivers"
+    }
+]
